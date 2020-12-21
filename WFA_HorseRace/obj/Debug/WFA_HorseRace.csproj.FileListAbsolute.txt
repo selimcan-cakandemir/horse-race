@@ -1,0 +1,10 @@
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\bin\Debug\WFA_HorseRace.exe.config
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\bin\Debug\WFA_HorseRace.exe
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\bin\Debug\WFA_HorseRace.pdb
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.Form1.resources
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.Properties.Resources.resources
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.exe
+C:\Users\sccde\source\repos\WFA_HorseRace\WFA_HorseRace\obj\Debug\WFA_HorseRace.pdb
